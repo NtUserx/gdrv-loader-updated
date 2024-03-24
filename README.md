@@ -12,3 +12,6 @@ gdrvloader.exe path/[targetdrivername].sys
 
 Unload driver:
 gdrvloader.exe path/[loadedtargetdrivername].sys -unload
+
+
+>>> gdrv-loader-updated/src/pe.cpp
